@@ -28,7 +28,7 @@ namespace CodingEventsAPI {
             "v1",
             new OpenApiInfo {
               Version = "v1",
-              Title = "Amanda's Coding Events API",
+              Title = "Amanda Edgar's Coding Events API",
               Description = "REST API for managing Coding Events - created by ME!"
             }
           );
